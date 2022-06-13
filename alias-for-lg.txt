@@ -1,0 +1,3 @@
+git config --global alias.lg log --color --graph --pretty=format:%C(bold white)%h%Creset -%C(bold green)%d%Creset %s %C(bold green)(%cr)%Creset %C(bold blue)<%an>%Creset --abbrev-commit --date=relative
+
+Run this command to create an alias for pretty commit info.
